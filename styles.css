@@ -6,13 +6,13 @@ body {
             align-items: center;
             position: relative;
         }
-		.container {
+	.container {
 
-			display: flex;
-			flex-direction: row; 
-			margin-top: -7%;
-			padding-left: 5%;
-		}
+	    display: flex;
+	    flex-direction: row; 
+	    margin-top: -7%;
+	    padding-left: 5%;
+	}
 		
         .card {
             border-radius: 25px;
@@ -48,7 +48,7 @@ body {
             cursor: pointer;
         }
         .cat-gif {
-			pointer-events: none;
+	    pointer-events: none;
             position: absolute;
             top: 50%;
             right: -45%;
@@ -57,11 +57,11 @@ body {
 
 @media (max-width: 768px) {
 
-		.cat-gif {
-			pointer-events: none;
-			position: absolute;
-			top: -15%;
-			right: 15%;
-			transform: translateY(-50%);
-		}
+	.cat-gif {
+	   pointer-events: none;
+	   position: absolute;
+	   top: -15%;
+	   right: 15%;
+	   transform: translateY(-50%);
+	}
 }
