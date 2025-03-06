@@ -9,7 +9,6 @@ Cat Currency Converter is a fun and interactive currency converter featuring a c
 - Convert between **EUR, USD, GBP, PLN, SEK, and NOK**.
 - **Swap currencies** instantly with a single click.
 - **Real-time exchange rates** from an API.
-- **Responsive design** with mobile-friendly adjustments.
 
 ## 📂 Project Structure
 ```
